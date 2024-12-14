@@ -1,0 +1,9 @@
+# Ignore all hidden files (files starting with a dot)
+.*
+
+# Exceptions: allow .gitignore and other required files
+!.gitignore
+!.env.example
+
+# Ignore a specific file
+*/terraform.tfstate
