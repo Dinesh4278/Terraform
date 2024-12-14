@@ -7,3 +7,5 @@
 
 # Ignore a specific file
 */terraform.tfstate
+
+*/terraform.tfstate.backup
